@@ -1,6 +1,6 @@
 /*************************************************
  *  Hugo Blox Builder
- *  https://github.com/HugoBlox/hugo-blox-builder
+ *  https://github.com/ntruongn/hugo-blox-research-group
  *
  *  Hugo Blox Builder Animation
  **************************************************/

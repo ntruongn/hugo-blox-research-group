@@ -1,3 +1,3 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-core
+module github.com/ntruongn/hugo-blox-research-group/modules/blox-core
 
 go 1.15
